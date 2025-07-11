@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/Kolb-Grunder/Documents/PlatformIO/Projects/10inch_Rack_Controller/.pio/build/esp32c6dev/CMakeFiles/bootloader
+C:/Users/Kolb-Grunder/Documents/PlatformIO/Projects/10inch_Rack_Controller/.pio/build/esp32c6dev/CMakeFiles/bootloader.rule
+C:/Users/Kolb-Grunder/Documents/PlatformIO/Projects/10inch_Rack_Controller/.pio/build/esp32c6dev/CMakeFiles/bootloader-complete.rule
+C:/Users/Kolb-Grunder/Documents/PlatformIO/Projects/10inch_Rack_Controller/.pio/build/esp32c6dev/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/Kolb-Grunder/Documents/PlatformIO/Projects/10inch_Rack_Controller/.pio/build/esp32c6dev/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/Kolb-Grunder/Documents/PlatformIO/Projects/10inch_Rack_Controller/.pio/build/esp32c6dev/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/Kolb-Grunder/Documents/PlatformIO/Projects/10inch_Rack_Controller/.pio/build/esp32c6dev/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+C:/Users/Kolb-Grunder/Documents/PlatformIO/Projects/10inch_Rack_Controller/.pio/build/esp32c6dev/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/Kolb-Grunder/Documents/PlatformIO/Projects/10inch_Rack_Controller/.pio/build/esp32c6dev/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/Kolb-Grunder/Documents/PlatformIO/Projects/10inch_Rack_Controller/.pio/build/esp32c6dev/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
